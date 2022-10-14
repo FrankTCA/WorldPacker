@@ -17,7 +17,7 @@ apply plugin: 'java'
 
 // -----------------------------------------------------------------
 //  **    Edit Here:    **
-version = '1.3'
+version = '1.0'
 group = 'com.otg.presetpacker'
 archivesBaseName = 'Preset-Name'
 description = "description"

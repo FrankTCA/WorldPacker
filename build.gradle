@@ -135,6 +135,7 @@ processResources {
 
 // Example for how to get properties into the manifest for reading by the runtime..
 jar {
+    zip64 = true
     manifest {
         attributes([
             "Specification-Title": "${modId}",
